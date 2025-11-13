@@ -1,4 +1,4 @@
-[Research1.pdf](https://github.com/user-attachments/files/23536028/Research1.pdf)# teleop-capstone
+# teleop-capstone
 Packet captures and analysis of XR robot network experiments (Quest ↔ Boston setup)
 
 # XR Network Research
@@ -14,7 +14,8 @@ This contains network traffic captures and related artifacts collected from vari
 
 # System Architecture
 The experimental setup consists of a Client (Quest device) communicating with a Server, with traffic routed through multiple network layers:
-[Research1.pdf](https://github.com/user-attachments/files/23536029/Research1.pdf)
+![systemArchitecture](https://github.com/user-attachments/assets/54e7f011-a34b-43bb-abfe-d70473478f38)
+
 
 
 Client Side
